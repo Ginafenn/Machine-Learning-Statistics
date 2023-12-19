@@ -16,32 +16,32 @@ Author: Regina Fennessy
 
 ## Libararies used
 
-import numpy as np
-import pandas as pd
-import seaborn as sns
-from matplotlib import pyplot as plt
-from sklearn.datasets import load_iris
-import requests
-from PIL import Image
-from IPython.display import display
-import io
-from matplotlib.colors import ListedColormap
-from sklearn.ensemble import AdaBoostClassifier, RandomForestClassifier
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score
-from sklearn.model_selection import train_test_split
-from sklearn.svm import SVC
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.metrics import confusion_matrix
-from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
-import random
-import scipy.stats as ss
-from scipy.stats.contingency import crosstab
-import sklearn as sk
-from sklearn.datasets import load_iris
-from sklearn.preprocessing import StandardScaler
-from sklearn.decomposition import PCA
+1. import numpy as np
+2. import pandas as pd
+3. import seaborn as sns
+4. from matplotlib import pyplot as plt
+5. from sklearn.datasets import load_iris
+6. import requests
+7. from PIL import Image
+8. from IPython.display import display
+9. import io
+10. rom matplotlib.colors import ListedColormap
+11. from sklearn.ensemble import AdaBoostClassifier, RandomForestClassifier
+12. from sklearn.neighbors import KNeighborsClassifier
+13. from sklearn.linear_model import LogisticRegression
+14. from sklearn.metrics import accuracy_score
+15. from sklearn.model_selection import train_test_split
+16. from sklearn.svm import SVC
+17. from sklearn.tree import DecisionTreeClassifier
+18. from sklearn.metrics import confusion_matrix
+19. from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
+20. import random
+21. import scipy.stats as ss
+22. from scipy.stats.contingency import crosstab
+23. import sklearn as sk
+24. from sklearn.datasets import load_iris
+25. from sklearn.preprocessing import StandardScaler
+26. from sklearn.decomposition import PCA
 
 
 ***
@@ -54,7 +54,11 @@ from sklearn.decomposition import PCA
 
 ***
 ## References
-
+https://matplotlib.org/
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html
+https://scikit-learn.org/
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+https://docs.scipy.org/doc/scipy/reference/stats.contingency.html
 https://www.geeksforgeeks.org/principal-component-analysis-pca/
 https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
 

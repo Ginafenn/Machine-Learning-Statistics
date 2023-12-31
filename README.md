@@ -46,14 +46,14 @@ Author: Regina Fennessy
 
 ***
 ## Juypter Notebook
-Step 1: Install Jupyter Notebook using pip 
-Step 2: Open your terminal or command prompt.
-Step 3: Navigate to the directory required.
-Step 4: Run the jupyter notebook command.
-Step 5: Create a new notebook.
-Step 6: The note book is made up of 2 types of cells.
-            (a) Code cells
-            (b) Makedown cells
+Step 1: Install Jupyter Notebook using pip.<br>
+Step 2: Open your terminal or command prompt.<br>
+Step 3: Navigate to the directory required.<br>
+Step 4: Run the jupyter notebook command.<br>
+Step 5: Create a new notebook.<br>
+Step 6: The note book is made up of 2 types of cells.<br>
+            (a) Code cells<br>
+            (b) Makedown cells<br>
 
 
 ***

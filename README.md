@@ -58,11 +58,18 @@ Step 6: The note book is made up of 2 types of cells.<br>
 
 ***
 ## References
-https://matplotlib.org/
-https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html
-https://scikit-learn.org/
-https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
-https://docs.scipy.org/doc/scipy/reference/stats.contingency.html
-https://www.geeksforgeeks.org/principal-component-analysis-pca/
-https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+- https://matplotlib.org/
+- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html
+- https://scikit-learn.org/
+- https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+- https://docs.scipy.org/doc/scipy/reference/stats.contingency.html
+- https://www.geeksforgeeks.org/principal-component-analysis-pca/
+- https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+- Dataset: https://en.wikipedia.org/wiki/Iris_flower_data_set 
+- Supervised learning: https://www.ibm.com/topics/supervised-learning
+- k-nearest neighbour: https://scikit-learn.org/stable/modules/neighbors.html
+- Logistic Regression: https://scikit-learn.org/stable/auto_examples/linear_model/plot_iris_logistic.html#logistic-regression-3-class-classifier
+- Support Vector Machines: https://scikit-learn.org/stable/modules/svm.html
+- Support Vector Machines:https://www.researchgate.net/publication/338977019_A_new_model_for_iris_data_set_classification_based_on_linear_support_vector_machine_parameter's_optimization
+- k-nearest neighbour: https://www.researchgate.net/profile/Tumma-Srinivasarao/publication/359064863_Iris_Flower_Classification_Using_Machine_Learning/links/622632fb3c53d31ba4af19e1/Iris-Flower-Classification-Using-Machine-Learning.pdf
 
